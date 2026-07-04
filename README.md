@@ -1,4 +1,4 @@
-📸 Photo Editor using OpenCV and Streamlit
+## 📸 Photo Editor using OpenCV and Streamlit
 
 ## Project Description
 
